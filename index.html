@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MegaStudio — Beranda</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+</head>
+<body>
+  <nav class="nav">
+    <div class="container nav-inner">
+      <div class="brand">Mega<span class="brand-accent">Studio</span>
+      <span class="tagline">Media Kreatif untuk Ide, Iklan, dan Insight</span></div>
+      <div class="nav-links">
+        <a href="index.html" class="btn">Beranda</a>
+        <a href="profile.html" class="btn btn-light">Profil</a>
+        <a href="#konten" class="btn">Konten</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="hero container">
+    <div class="card">
+      <h1>Selamat Datang di Mega Studio ✨</h1>
+      <p class="tagline-hero">Media Kreatif untuk Ide, Iklan, dan Insight.</p>
+<p>Mega Studio adalah ruang digital untuk <strong>artikel</strong>, <strong>landing page iklan</strong>, dan <strong>karya konten kreatif</strong>.</p>
+      <a class="btn" href="#konten">Lihat Konten</a>
+    </div>
+  </header>
+
+  <main class="container" id="konten">
+    <section class="section-head">
+      <h2>Konten Terbaru</h2>
+      <div class="filters">
+        <button class="chip active" data-filter="all">Semua</button>
+        <button class="chip" data-filter="article">Artikel</button>
+        <button class="chip" data-filter="product">Produk</button>
+        <button class="chip" data-filter="product">Visual Design</button>
+      </div>
+    </section>
+    <section class="grid" id="postsGrid"></section>
+  </main>
+
+  <footer class="footer container">
+    © <span id="y"></span>  Mega Studio • Media Kreatif untuk Ide, Iklan, dan Insight.
+    <a href="https://github.com/Ega-Yuli" target="_blank" rel="noreferrer">GitHub</a>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

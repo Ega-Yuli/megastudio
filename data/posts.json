@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 201,
+      "type": "product",
+      "title": "🌸 Kost Putri Rumah Mochi — Yogyakarta",
+      "excerpt": "Hunian putri aman & strategis di Muja-Muju. Fasilitas lengkap, Wi-Fi, CCTV, dapur bersama.",
+      "published_at": "2025-11-12T21:00:00+07:00",
+      "cover": "assets/img/rumah-mochi/sampul.png",
+      "cta": "Pages/rumah-mochi.html",
+      "cta_label": "Lihat Detail & Booking"
+    },
+    {
+      "id": 202,
+      "type": "article",
+      "title": "🌱 Sampah Berdaya, Desa Sejahtera - Studi Kasus Sociopreneur",
+      "excerpt": "Warga Munggur mengubah masalah sampah menjadi gerakan sociopreneur berdampak bagi ekonomi & lingkungan.",
+      "published_at": "2025-11-12T22:00:00+07:00",
+      "cover": "assets/img/sociopreneur/sampul.JPG",
+      "cta": "Pages/sociopreneur-munggur.html",
+      "cta_label": "Baca Artikel"
+    },
+    {
+      "id": 203,
+      "type": "article",
+      "title": "🎭 Museum Sonobudoyo: Warisan Budaya untuk Generasi Muda",
+      "excerpt": "Konsep website modern untuk menarik minat generasi muda & memperkenalkan budaya secara lebih engaging.",
+      "published_at": "2025-11-13T22:00:00+07:00",
+      "cover": "assets/img/sonobudoyo/sampul.jpg",
+      "cta": "Pages/sonobudoyo.html",
+      "cta_label": "Baca Artikel"
+  },
+  {
+  "id": 301,
+  "type": "product",
+  "title": "🐘 MAMPYCODE – Template & Produk Digital Siap Pakai",
+  "excerpt": "Planner digital, cerpen, undangan, buku mewarnai, dan banyak produk estetik lainnya. Praktis, murah, dan langsung pakai!",
+  "cover": "assets/img/mampycode/sampul.png",
+  "published_at": "2025-11-14T10:00:00+07:00",
+  "cta": "Pages/mampycode.html",
+  "cta_label": "Lihat Produk"
+  }
+
+
+
+  ]
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Halaman utama -->
+  <url>
+    <loc>https://ega-yuli.github.io/megastudio/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Halaman-halaman di folder Pages -->
+  <url>
+    <loc>https://ega-yuli.github.io/megastudio/Pages/mampycode.html</loc>
+  </url>
+
+  <url>
+    <loc>https://ega-yuli.github.io/megastudio/Pages/rumah-mochi.html</loc>
+  </url>
+
+  <url>
+    <loc>https://ega-yuli.github.io/megastudio/Pages/sociopreneur-munggur.html</loc>
+  </url>
+
+  <url>
+    <loc>https://ega-yuli.github.io/megastudio/Pages/sonobudoyo.html</loc>
+  </url>
+
+  <url>
+    <loc>https://ega-yuli.github.io/megastudio/profile.html</loc>
+  </url>
+
+</urlset>

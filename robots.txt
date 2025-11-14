@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ega-yuli.github.io/megastudio/sitemap.xml
